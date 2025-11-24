@@ -18,7 +18,7 @@
   "16": { "caption": "VPL" },
   "17": { "caption": "BLS" },
   "18": { "caption": "Choucas" },
-  "19": { "caption": "Equipe cynophile" },
+  "19": { "caption": "Equipe cynophile", "minPersonnel": 2, "maxPersonnel": 3 },
   "20": { "caption": "Unité motocycliste" },
   "21": { "caption": "CCFS", "minPersonnel": 2, "maxPersonnel": 4 },
   "22": { "caption": "CCFM", "minPersonnel": 2, "maxPersonnel": 4 },
